@@ -5,6 +5,7 @@
 This project implements automated testing and continuous integration using GitHub Actions for the BarnesAndNoble and Amazon packages. The project includes unit tests, integration tests, static analysis with Checkstyle, and code coverage reporting with JaCoCo.
 
 ## Build Status
+![Build Status](https://github.com/ZNich2/Continuous-Integration-Assignment/actions/workflows/SE333_CI.yml/badge.svg)
 
 ## Notes and Responses
 ### Part 1 - BarnesAndNoble Testing
