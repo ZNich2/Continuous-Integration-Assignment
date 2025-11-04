@@ -1,4 +1,5 @@
 name: SE333_CI
+
 on:
   push:
     branches:
@@ -7,6 +8,7 @@ on:
 jobs:
   SE333_CI_JOB:
     runs-on: ubuntu-latest
+
     steps:
       - name: checkout-repo
         uses: actions/checkout@v4
